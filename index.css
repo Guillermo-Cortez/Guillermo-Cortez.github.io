@@ -1,0 +1,26 @@
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1c2130;
+}
+
+.div-principal{
+  width: 65vw;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  background-color: #ffeaad;
+  border-radius: 6px;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-top: 40px;
+  border: dashed #028f76 20px;
+}
+.foto{
+  border-radius: 20px;
+}
+h1,h4{
+  color: #d14334;
+  font-family: 'Averta Standard', sans-serif;
+}
